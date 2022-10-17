@@ -1,4 +1,6 @@
 <p>
+  <img align="right" height="270px" alt="GIF" src="https://pics.me.me/what-the-fuck-are-you-doing-here-memeful-com-14184734.png&ct=g"/>
+
 <h1 align="center"><b>Oh. Hey There, Kiddo.</b></h1>
 <i>- You're probably PizzaBoss/Oscar or some random skid from their group. -</i>
 </p>
